@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/OpenVoIP/baresip-go/binding"
-	"github.com/OpenVoIP/baresip-go/ctrltcp"
+	"github.com/motivq/baresip-go/binding"
+	"github.com/motivq/baresip-go/ctrltcp"
 )
 
 func main() {
